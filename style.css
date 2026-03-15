@@ -1,0 +1,9 @@
+body
+{
+  font: normal 8pt/normal 'Comic Sans MS' , Verdana, sans-serif;
+  margin-top: 0;
+  text-transform: none;
+  text-decoration: none;
+  background: url(/images/bg_clouds.jpg) no-repeat scroll center top,
+              url(/images/bg_gradient.jpg) repeat-x;
+}
